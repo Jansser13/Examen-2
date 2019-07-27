@@ -1,0 +1,11 @@
+{
+    "name": "exa/final",
+    "description": "Examen Final",
+    "authors": [
+        {
+            "name": "Jose Daniel Naranjo Delgado",
+            "email": "joseda98@hotmail.com"
+        }
+    ],
+    "require": {}
+}
