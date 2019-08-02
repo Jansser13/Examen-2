@@ -27,7 +27,7 @@ class SupermercadoController implements BaseController
             $art = new MArticulo();
             $art->setArticulo(explode("-", $articulo)[0]);
             $art->setPrecio(explode("-",$articulo)[1]);
-            $art->setIVA(0);
+            $art->setIVA(explode("-",$articulo)[2]);
 
             array_push($_SESSION["Factura"], $art);
         }
