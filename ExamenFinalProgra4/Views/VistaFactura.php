@@ -21,8 +21,8 @@
 <body background="C:\xampp\htdocs\ExamenFinalProgra4\Views\FotoExamen\fondo.jpg" bgcolor="FFCECB"> 
     <h1>SuperMercado La Microsoft </h1>
    
-            <H3> <input type="checkbox"  id="cb1" value="option1" > Cerveza      ₡1000 + IVA <BR>
-              <H3> <input type="checkbox" id="cb2" value="option2"> Papas Tostadas  ₡650 + IVA  <BR>
+            <H3> <input type="checkbox"  id="cb1" value="option1" > Guaro      ₡1000 + IVA <BR>
+              <H3> <input type="checkbox" id="cb2" value="option2"> Platano Tostado  ₡650 + IVA  <BR>
               <H3>  <input type="checkbox" id="cb3" value="option3"> Arroz ₡2000 <BR>
               <H3> <input type="checkbox" id="cb4" value="option4"> Jugo de Naranja ₡800  + IVA    <BR>
                <H3> <input type="checkbox" id="cb5" value="option5"> Manzana ₡500  + IVA   <BR>
